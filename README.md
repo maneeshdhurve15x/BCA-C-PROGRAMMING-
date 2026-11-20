@@ -22,3 +22,8 @@ C Programming
 
 Purpose-
 To improve problem-solving and programming skills using C language.
+
+## Git Workflow-
+- Created a separate feature branch.
+- Used commits to save project changes.
+- Merged the feature branch into main.
